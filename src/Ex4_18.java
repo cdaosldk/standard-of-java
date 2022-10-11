@@ -5,7 +5,6 @@ public class Ex4_18 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int menu = 0;
-		int num = 0;
 		
 		Scanner scanner = new Scanner(System.in);
 		
