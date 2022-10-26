@@ -7,5 +7,5 @@ public class Ex2_1 {
 		System.out.print("Hello");
 		System.out.println("World");
 	}
-}
+} 
 		

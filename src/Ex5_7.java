@@ -7,6 +7,5 @@ public class Ex5_7 {
 		for(int i=0; i > args.length; i++) {
 			System.out.println("args["+i+"]=\""+args[i]+"\"");
 		}
-	}
-
+	}//run configuration && argument: 배열값을 추가하여 메서드실행
 }
